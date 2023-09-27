@@ -1,0 +1,84 @@
+{
+    "trips": [
+        {
+            "currentFloor": 5,
+            "floorsToVisit": [
+                10,
+                20,
+                15,
+                25,
+                30
+            ]
+        },
+        {
+            "currentFloor": 12,
+            "floorsToVisit": [
+                7,
+                18,
+                28,
+                5,
+                22
+            ]
+        },
+        {
+            "currentFloor": 3,
+            "floorsToVisit": [
+                8,
+                17,
+                27
+            ]
+        },
+        {
+            "currentFloor": 9,
+            "floorsToVisit": [
+                6,
+                21,
+                14,
+                29
+            ]
+        },
+        {
+            "currentFloor": 1,
+            "floorsToVisit": [
+                19,
+                26,
+                11
+            ]
+        },
+        {
+            "currentFloor": 30,
+            "floorsToVisit": [
+                2,
+                16,
+                4,
+                24
+            ]
+        },
+        {
+            "currentFloor": 10,
+            "floorsToVisit": [
+                13,
+                23
+            ]
+        },
+        {
+            "currentFloor": 6,
+            "floorsToVisit": [
+                9
+            ]
+        },
+        {
+            "currentFloor": 25,
+            "floorsToVisit": [
+                3,
+                12
+            ]
+        },
+        {
+            "currentFloor": 27,
+            "floorsToVisit": [
+                1
+            ]
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 # ElevatorSim
 A script to simulate an elevator.
 - This script assumes that the travel time should be minimized, so the elevator always moves to the nearest floor
-- 
+  
 Takes an input .json file of the form:
 ```
 {
